@@ -47,12 +47,12 @@ atm-denomination-solver/
 ## 🧪 Sample Output
 
 For `100 EUR`:
-
+```text
 10 x 10 EUR, 0 x 50 EUR, 0 x 100 EUR
 5 x 10 EUR, 1 x 50 EUR, 0 x 100 EUR
 0 x 10 EUR, 2 x 50 EUR, 0 x 100 EUR
 0 x 10 EUR, 0 x 50 EUR, 1 x 100 EUR
-
+```
 
 ---
 

@@ -10,8 +10,8 @@ namespace AtmDenominationSolver.Tests
         [Theory]
         [InlineData(30, 1)]
         [InlineData(50, 2)] // 1x50 OR 5x10
-        [InlineData(100, 3)] // 10x10, 2x50, 1x100
-        [InlineData(140, 6)] // multiple combinations
+        [InlineData(100, 4)] // 10x10, 2x50, 1x100
+        [InlineData(140, 4)] // multiple combinations
         [InlineData(25, 0)] // should be invalid
         public void Should_Calculate_Correct_Number_Of_Combinations(int amount, int expectedCount)
         {

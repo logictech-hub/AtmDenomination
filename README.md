@@ -41,6 +41,7 @@ atm-denomination-solver/
 │   └── DenominationSolverTests.cs # Unit tests (xUnit)
 └── README.md                      # Project documentation
 
+```
 ---
 
 ## 🧪 Sample Output

@@ -62,4 +62,11 @@ For `100 EUR`:
 dotnet run
 
 
+## ✅ Testing
+
+Use [xUnit](https://xunit.net/) for unit testing.
+
+To run tests:
+
+```bash
 dotnet test

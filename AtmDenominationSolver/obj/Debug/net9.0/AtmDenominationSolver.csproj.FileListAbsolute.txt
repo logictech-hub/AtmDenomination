@@ -1,0 +1,15 @@
+F:\Tech Interview\assessment\AtmDenomination\AtmDenominationSolver\bin\Debug\net9.0\AtmDenominationSolver.exe
+F:\Tech Interview\assessment\AtmDenomination\AtmDenominationSolver\bin\Debug\net9.0\AtmDenominationSolver.deps.json
+F:\Tech Interview\assessment\AtmDenomination\AtmDenominationSolver\bin\Debug\net9.0\AtmDenominationSolver.runtimeconfig.json
+F:\Tech Interview\assessment\AtmDenomination\AtmDenominationSolver\bin\Debug\net9.0\AtmDenominationSolver.dll
+F:\Tech Interview\assessment\AtmDenomination\AtmDenominationSolver\bin\Debug\net9.0\AtmDenominationSolver.pdb
+F:\Tech Interview\assessment\AtmDenomination\AtmDenominationSolver\obj\Debug\net9.0\AtmDenominationSolver.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tech Interview\assessment\AtmDenomination\AtmDenominationSolver\obj\Debug\net9.0\AtmDenominationSolver.AssemblyInfoInputs.cache
+F:\Tech Interview\assessment\AtmDenomination\AtmDenominationSolver\obj\Debug\net9.0\AtmDenominationSolver.AssemblyInfo.cs
+F:\Tech Interview\assessment\AtmDenomination\AtmDenominationSolver\obj\Debug\net9.0\AtmDenominationSolver.csproj.CoreCompileInputs.cache
+F:\Tech Interview\assessment\AtmDenomination\AtmDenominationSolver\obj\Debug\net9.0\AtmDenominationSolver.sourcelink.json
+F:\Tech Interview\assessment\AtmDenomination\AtmDenominationSolver\obj\Debug\net9.0\AtmDenominationSolver.dll
+F:\Tech Interview\assessment\AtmDenomination\AtmDenominationSolver\obj\Debug\net9.0\refint\AtmDenominationSolver.dll
+F:\Tech Interview\assessment\AtmDenomination\AtmDenominationSolver\obj\Debug\net9.0\AtmDenominationSolver.pdb
+F:\Tech Interview\assessment\AtmDenomination\AtmDenominationSolver\obj\Debug\net9.0\AtmDenominationSolver.genruntimeconfig.cache
+F:\Tech Interview\assessment\AtmDenomination\AtmDenominationSolver\obj\Debug\net9.0\ref\AtmDenominationSolver.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtmDenominationSolver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4f0e056a8e028ef690fbf6c845960b93b4bf227")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98d53d862f2949bdd78bef7d394898f2a5ec029b")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtmDenominationSolver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtmDenominationSolver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
